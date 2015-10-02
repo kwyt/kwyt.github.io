@@ -6,7 +6,7 @@ title: 【coffeescript】クラス内でsetInterval
 
 クラスのメソッドでsetIntervalを使って処理を繰り返そうと思い、単純に  
   
-```c
+```javascript
 class Test
 
   getData:->
@@ -24,7 +24,7 @@ setInterval()はデフォルトではwindowオブジェクトに設定されて�
   
 以下が正しく動いたコードです。  
   
-```c
+```javascript
 class Test
 
   getData: ->
