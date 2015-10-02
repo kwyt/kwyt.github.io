@@ -1,3 +1,8 @@
+---
+layout: post
+title: 【coffeescript】クラス内でsetInterval
+---
+
 
 クラスのメソッドでsetIntervalを使って処理を繰り返そうと思い、単純に  
   
